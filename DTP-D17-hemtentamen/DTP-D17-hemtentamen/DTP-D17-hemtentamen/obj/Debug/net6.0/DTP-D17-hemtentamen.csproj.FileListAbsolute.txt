@@ -1,0 +1,15 @@
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\bin\Debug\net6.0\DTP-D17-hemtentamen.exe
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\bin\Debug\net6.0\DTP-D17-hemtentamen.deps.json
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\bin\Debug\net6.0\DTP-D17-hemtentamen.runtimeconfig.json
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\bin\Debug\net6.0\DTP-D17-hemtentamen.dll
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\bin\Debug\net6.0\DTP-D17-hemtentamen.pdb
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.csproj.AssemblyReference.cache
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.AssemblyInfoInputs.cache
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.AssemblyInfo.cs
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.csproj.CoreCompileInputs.cache
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.dll
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\refint\DTP-D17-hemtentamen.dll
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.pdb
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\DTP-D17-hemtentamen.genruntimeconfig.cache
+C:\Users\Gabriella\source\repos\DTP-D17-hemtentamen\DTP-D17-hemtentamen\DTP-D17-hemtentamen\obj\Debug\net6.0\ref\DTP-D17-hemtentamen.dll
